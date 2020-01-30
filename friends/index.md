@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-<TITLE>  Scoreboard </TITLE>
+<TITLE>  index </TITLE>
 
 </HEAD>
 <BODY>
@@ -14,7 +14,7 @@
   <td><A HREF=Alessandro.md</A></td>
 </tr>
 </table>
-<H1> Scoreboard</H1><P>
+<H1> index</H1><P>
 </BODY>
 </HTML>
 
