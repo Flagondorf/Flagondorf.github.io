@@ -1,3 +1,3 @@
 Dummy Thicc
- <img alt=" Championship Bracket" src="JV2020_2-1.png" width="1000"
+ <img alt=" The Mule" src="curt_mueller-northwest_missouri_state_university.jpg" width="10000"
      height="750">
