@@ -1,1 +1,0 @@
-Anti Spanish Italian Nationalist
